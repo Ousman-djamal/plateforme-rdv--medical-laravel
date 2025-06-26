@@ -20,6 +20,12 @@ Ce projet est une application web de gestion de rendez-vous médicaux.
 -   Espace patient, médecin, admin
 -   Ajout de médecin par l’admin
 
+## 🚧 Statut du projet
+
+⛔️ **Projet en cours de développement.**
+
+> Certaines fonctionnalités ne sont pas encore terminées (ex. : contrôleurs, gestion des rendez-vous, consultations, etc.)
+
 ## ▶️ Installation rapide
 
 ```bash
@@ -28,4 +34,5 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan serve
+
 ```
